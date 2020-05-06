@@ -21,4 +21,6 @@ npm run lint
 ```
 
 ### Run Development environment
+```
 npm run dev
+```
